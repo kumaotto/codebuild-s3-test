@@ -1,3 +1,6 @@
+https://codebuild.ap-northeast-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiVHQ3VC9QOU4rTWhoQnRraHhxMStXTk4wRUkydDhqZFdWWWRpWFhUQmE1eVdsWjVkWFREN2svaXNzRitOYW5vUUxoOW8vYlN0QzZWREk4WlZvbkpqSXR3PSIsIml2UGFyYW1ldGVyU3BlYyI6Ii8zZ0ZBUnphWlBTU2QrMUoiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
